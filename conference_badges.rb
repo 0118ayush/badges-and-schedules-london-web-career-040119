@@ -28,7 +28,6 @@ def assign_rooms(speakers)
     end 
     roomconfirm
   end 
-end
 
 
 
