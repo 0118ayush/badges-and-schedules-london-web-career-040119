@@ -20,7 +20,6 @@ def roommessage(a, b)
 end
 
 
-
 def assign_rooms(speakers)
     roomconfirm = []
     speakers.each_with_index do |value, index|
@@ -28,6 +27,7 @@ def assign_rooms(speakers)
     end 
     roomconfirm
   end 
+
 
 
 
