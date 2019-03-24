@@ -25,10 +25,10 @@ def assign_rooms(speakers)
     roomconfirm = []
     speakers.each_with_index do |value, index|
       roomconfirm.push(roommessage(value, index))
-    end
+    end 
   end 
+end
 
-end 
 
 
 
