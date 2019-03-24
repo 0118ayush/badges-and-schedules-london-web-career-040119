@@ -5,6 +5,9 @@ def badge_maker(name)
 end 
 
 
-def batch_badge_creator
+speakers = []
+
+
+def batch_badge_creator(speakers)
   
 end 
