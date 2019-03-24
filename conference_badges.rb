@@ -27,7 +27,7 @@ def assign_rooms(speakers)
       roomconfirm.push(roommessage(value, index))
     end
   end 
-  roomconfirm
+
 end 
 
 
