@@ -15,8 +15,15 @@ def batch_badge_creator(speakers)
 end 
 
 
+def roomconfirmation(a, b)
+  "Hello, #{a}! You'll be assigned to room #{b}!"
+end
+
+
+
 def assign_rooms(speakers)
-    
+    speakers.each_with_index do |value, index|
+      
 end 
 
 
