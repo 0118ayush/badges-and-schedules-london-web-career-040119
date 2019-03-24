@@ -16,7 +16,7 @@ end
 
 
 def roommessage(a, b)
-  "Hello, #{a}! You'll be assigned to room #{b}!"
+  "Hello, #{a}! You'll be assigned to room #{b+1}!"
 end
 
 
